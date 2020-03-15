@@ -13,4 +13,4 @@ Every check has been tested for bypasses and false positives to provide the user
 # Link
 
 Spigot: [TakaAntiCheat](https://www.spigotmc.org/resources/takaanticheat-takaac.45167/)
-Discord: [Discord]()
+Discord: [Discord](https://discord.me/takadakata)
