@@ -5,7 +5,7 @@ Taka has been in beta development for 2 years, and now I present you an advanced
 Every check is constantly being tested for bypasses and false positives before every update to guarantee, as best as possible, a quality anticheat that will serve your needs.
 ### **Issues with Taka should be reported in this repository.**
 
-**Current Version:** 5.9.9 (3/15/2020).
+**Current Version:** 6.1.6 (3/16/2020).
 
 # Video
 
