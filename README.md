@@ -30,12 +30,12 @@ Discord: [Discord](https://discord.me/takadakata)
     - Server Version
     - Client Used
     - Video or Pics, if possible
-    - Explanation of steps to reproduce the false positive
+    - Explanation of steps to reproduce the bypass
 3. Report error
   - Please provide the following information:
     - Taka Version
     - Server Version
     - The error in console
-    - Explanation of steps to reproduce the false positive, if possible
+    - Explanation of steps to reproduce the error, if possible
 
 For other problems please use the Taka Discord server, or PM me directly in Spigot
